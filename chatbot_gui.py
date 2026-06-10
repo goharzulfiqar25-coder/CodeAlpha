@@ -1,7 +1,7 @@
 """
 CodeAlpha AI Internship - Task 2: Chatbot for FAQs
 GUI Version using Tkinter
-Author: [Your Name]
+Author: [Zulfiqar Gauhar]
 """
 
 import tkinter as tk
