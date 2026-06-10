@@ -119,7 +119,7 @@ CodeAlpha AI Intern
 https://github.com/goharzulfiqar25-coder
 
 ### LinkedIn
-(Add your LinkedIn profile link here)
+(https://linkedin.com/in/zulfiqar-gohar-017b403a9)
 
 ---
 
