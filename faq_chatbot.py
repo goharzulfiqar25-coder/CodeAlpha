@@ -1,6 +1,6 @@
 """
 CodeAlpha AI Internship - Task 2: Chatbot for FAQs
-Author: [Your Name]
+Author: [Zulfiqar Gauhar]
 Description: FAQ Chatbot using NLP (TF-IDF + Cosine Similarity)
 """
 
